@@ -1,0 +1,8 @@
+opencv-python==4.8.1.78
+mediapipe==0.10.7
+numpy==1.24.3
+insightface==0.7.3
+onnxruntime>=1.16.0
+# Optional for GPU acceleration:
+# onnxruntime-gpu>=1.16.0
+# Note: tkinter is usually included with Python installation

@@ -1,3 +1,5 @@
+🎥 **Demo Video** 
+
 # Push-Up Tracker
 
 A computer vision-based push-up counter that uses MediaPipe for real-time pose detection and tracking. The application automatically counts your push-ups by monitoring your elbow angle and provides visual feedback.

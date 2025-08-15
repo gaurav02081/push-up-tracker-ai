@@ -1,4 +1,5 @@
 🎥 **Demo Video** 
+Watch the demo =  https://github.com/gaurav02081/push-up-tracker-ai/blob/main/assets/demo.mp4
 
 # Push-Up Tracker
 
